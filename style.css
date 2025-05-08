@@ -1,0 +1,36 @@
+/* Estilização geral */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #2E3A46; /* Fundo LightCoral */
+}
+
+/* Estilização dos títulos */
+h1 {
+    color: #3CB371; /* Verde médio para o primeiro título */
+    text-shadow: 2px 2px 5px black; /* Sombra preta */
+}
+
+h1.tray {
+    color: #4682B4; /* Azul aço para o segundo título */
+    text-shadow: 2px 2px 5px black; /* Sombra preta */
+}
+
+h1.gnre {
+    color: #DAA520; /* Dourado para o título GNRE */
+    text-shadow: 2px 2px 5px black; /* Sombra preta */
+}
+
+/* Caixa de informações */
+.info {
+    font-size: 18px;
+    font-weight: bold;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    display: inline-block;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); /* Sombra preta */
+    color: #333333;
+    margin-bottom: 20px;
+}
