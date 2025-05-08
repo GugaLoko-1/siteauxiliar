@@ -22,6 +22,11 @@ h1.gnre {
     text-shadow: 2px 2px 5px black; /* Sombra preta */
 }
 
+h1 {
+    color: #FFFF00; /* Amarelo para o primeiro título */
+    text-shadow: 2px 2px 5px black; /* Sombra preta */
+}
+
 /* Caixa de informações */
 .info {
     font-size: 18px;
