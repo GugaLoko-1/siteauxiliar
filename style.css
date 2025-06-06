@@ -27,6 +27,11 @@ h1.mercado {
     text-shadow: 2px 2px 5px black; /* Sombra preta */
 }
 
+h1.google {
+    color: #1f02c5; /* Amarelo para o primeiro título */
+    text-shadow: 2px 2px 5px black; /* Sombra preta */
+}
+
 /* Caixa de informações */
 .info {
     font-size: 18px;
